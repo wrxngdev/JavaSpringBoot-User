@@ -2,6 +2,8 @@
 
 This project is a User Management System built with Spring Boot 3 for the backend and React for the frontend. It uses MySQL as the database.
 
+Credits: Niko Nikolovski
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
